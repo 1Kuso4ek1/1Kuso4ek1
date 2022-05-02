@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I'm currently working on a 3D engine [3Dev](https://github.com/1Kuso4ek1/3Dev/projects/1)
+- I know C++, GLSL, Lua, English and Russian 😄
+[![My stats](https://github-readme-stats.vercel.app/api?username=1Kuso4ek1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **1Kuso4ek1/1Kuso4ek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
