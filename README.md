@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm currently working on a 3D engine [3Dev](https://github.com/1Kuso4ek1/3Dev/projects/1)  
+- I'm currently working on a 3D engine [3Dev](https://github.com/1Kuso4ek1/3Dev)  
 - I know C++, GLSL, Lua, English and Russian 😄  
 -----------------------------------------------------
 [![My stats](https://github-readme-stats.vercel.app/api?username=1Kuso4ek1)](https://github.com/anuraghazra/github-readme-stats)
