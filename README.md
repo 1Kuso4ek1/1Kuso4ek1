@@ -1,6 +1,17 @@
-Check out 3Dev. Please. 🥺  
+## Log::Write("Hello world!")  
+![](https://img.shields.io/badge/Debian_13-white?logo=Debian&logoColor=red)
+![](https://img.shields.io/badge/Ryzen_5_5600G-white?logo=Amd&logoColor=black&color=FF2222)  
+
+_**I'm developing 3Dev!**_  
+
+- https://t.me/dmitry_salov  
+- https://boosty.to/kuso4ek
+- https://vk.com/kuso4ek  
+- https://1kuso4ek1.itch.io/  
+
 -----------------------------------------------------
-[![My stats](https://github-readme-stats.vercel.app/api?username=1Kuso4ek1)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=1Kuso4ek1&line_height=20&theme=blue-green)](https://github.com/1Kuso4ek1)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Kuso4ek1&layout=compact&theme=blue-green)](https://github.com/1Kuso4ek1)
 
 <!--
 **1Kuso4ek1/1Kuso4ek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
