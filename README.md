@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/Ryzen_5_5600G-white?logo=Amd&logoColor=black&color=FF2222)  
 
 _**I'm developing 3Dev!**_  
+> _**"3Dev is totally 42069% better than Unreal Engine 5" - Tim Sweeney**_
 
 - https://t.me/dmitry_salov  
 - https://boosty.to/kuso4ek
