@@ -1,5 +1,5 @@
 ## Log::Write("Hello world!")  
-![](https://img.shields.io/badge/Debian_13-white?logo=Debian&logoColor=red)
+![](https://img.shields.io/badge/Debian_trixie-white?logo=Debian&logoColor=red)
 ![](https://img.shields.io/badge/Ryzen_5_5600G-white?logo=Amd&logoColor=black&color=FF2222)  
 
 _**I'm developing 3Dev!**_  
