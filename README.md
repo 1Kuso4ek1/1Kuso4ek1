@@ -5,7 +5,7 @@
 _**I'm developing 3Dev!**_  
 > _**"3Dev is totally 42069% better than Unreal Engine 5" - Tim Sweeney**_
 
-- https://t.me/dmitry_salov  
+- https://t.me/myw4yout  
 - https://boosty.to/kuso4ek
 - https://vk.com/kuso4ek  
 - https://1kuso4ek1.itch.io/  
