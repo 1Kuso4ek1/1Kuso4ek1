@@ -2,8 +2,8 @@
 ![](https://img.shields.io/badge/Debian_trixie-white?logo=Debian&logoColor=red)
 ![](https://img.shields.io/badge/Ryzen_5_5600G-white?logo=Amd&logoColor=black&color=FF2222)  
 
-_**I'm developing 3Dev!**_  
-> _**"3Dev is totally 42069% better than Unreal Engine 5" - Tim Sweeney**_
+_**I'm developing ~~3Dev~~ Lustra!**_  
+> _**"~~3Dev~~ Lustra is totally 42069% better than Unreal Engine 5" - Tim Sweeney**_
 
 - https://t.me/myw4yout  
 - https://boosty.to/kuso4ek
