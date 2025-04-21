@@ -6,8 +6,6 @@ _**I'm developing ~~3Dev~~ Lustra!**_
 > _**"~~3Dev~~ Lustra is totally 42069% better than Unreal Engine 5" - Tim Sweeney**_
 
 - https://t.me/myw4yout  
-- https://boosty.to/kuso4ek
-- https://vk.com/kuso4ek  
 - https://1kuso4ek1.itch.io/  
 
 -----------------------------------------------------
