@@ -6,14 +6,10 @@ _**I'm developing ~~3Dev~~ Lustra!**_
 > _**"~~3Dev~~ Lustra is totally 42069% better than Unreal Engine 5" - Tim Sweeney**_
 
 ## Technical stack
-### Languages
-- mainly C++, sometimes Kotlin, Angelscript, GLSL, QML and SQL
-### Libraries
-- LLGL, Drogon, Qt, gtkmm, SFML, libtorch, curl, ZeroMQ and much more...
-### Tools
-- CMake, make, clang (and clang tools)
-### IDE
-- CLion and VS Code
+- **Languages:** mainly C++, sometimes Kotlin, Angelscript, GLSL, QML and SQL
+- **Libraries:** LLGL, Drogon, Qt, gtkmm, SFML, libtorch, curl, ZeroMQ and much more...
+- **Tools:** CMake, make, clang (and clang tools)
+- **IDE/Editor:** CLion and VS Code
 
 ## Contact me
 - [Telegram](https://t.me/aw4yout)
