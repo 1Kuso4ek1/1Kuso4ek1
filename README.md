@@ -5,8 +5,22 @@
 _**I'm developing ~~3Dev~~ Lustra!**_  
 > _**"~~3Dev~~ Lustra is totally 42069% better than Unreal Engine 5" - Tim Sweeney**_
 
-- https://t.me/myw4yout  
-- https://1kuso4ek1.itch.io/  
+## Technical stack
+### Languages
+- mainly C++, sometimes Kotlin, Angelscript, GLSL, QML and SQL
+### Libraries
+- LLGL, Drogon, Qt, gtkmm, SFML, libtorch, curl, ZeroMQ and much more...
+### Tools
+- CMake, make, clang (and clang tools)
+### IDE
+- CLion and VS Code
+
+## Contact me
+- [Telegram](https://t.me/aw4yout)
+
+## Follow me
+- [Telegram channel](https://t.me/myw4yout)
+- [itch.io](https://1kuso4ek1.itch.io/)
 
 -----------------------------------------------------
 [![Stats](https://github-readme-stats.vercel.app/api?username=1Kuso4ek1&line_height=20&theme=blue-green)](https://github.com/1Kuso4ek1)
@@ -23,6 +37,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
