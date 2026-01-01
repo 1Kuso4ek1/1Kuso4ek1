@@ -1,9 +1,6 @@
-## Was machst du hier? 🤨  
-![](https://img.shields.io/badge/Debian_trixie-white?logo=Debian&logoColor=red)
-![](https://img.shields.io/badge/Ryzen_5_5600G-white?logo=Amd&logoColor=black&color=FF2222)  
+_Please rethink the life decisions that brought you here_    
 
-_**I'm developing ~~3Dev~~ Lustra!**_  
-> _**"~~3Dev~~ Lustra is totally 42069% better than Unreal Engine 5" - Tim Sweeney**_
+I develop desktop, 3D and fullstack stuff with Qt and many other frameworks/libraries
 
 ## Technical stack
 - **Languages:** mainly modern C++ (17/20/23), sometimes Kotlin, Angelscript, GLSL, QML and SQL
