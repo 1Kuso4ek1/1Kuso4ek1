@@ -1,6 +1,6 @@
 _Please rethink the life decisions that brought you here_    
 
-i develop crossplatform stuff with Qt and many other frameworks/libraries. love the 3D graphics.
+i develop crossplatform stuff with Qt and many other frameworks/libraries. love 3D graphics.
 
 ## Technical stack
 - **Languages:** modern C++ (17/20/23), QML, Kotlin, Angelscript, GLSL and SQL
